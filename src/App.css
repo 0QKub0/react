@@ -55,3 +55,7 @@ h1 {
 li{
   margin-top: 20px;
 }
+.bg-logo{
+  position:relative;
+  left:45%;
+}
